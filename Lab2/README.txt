@@ -1,1 +1,1 @@
-Lab2 setup in progress
+Début du travail pour Lab2
